@@ -1,6 +1,6 @@
 {
   "name": "core.io-command-reloader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "core.io hot command reloader",
   "main": "index.js",
   "scripts": {
